@@ -253,7 +253,5 @@ Use model outputs to prioritise retention outreach.
 
 The coding workflow for this project was developed with AI assistance for productivity, debugging support, code refinement, and troubleshooting.
 
-Problem framing, modelling choices, evaluation decisions, interpretation of results, and business recommendations were independently directed and validated by the author.
-
 ---
 
